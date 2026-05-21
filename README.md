@@ -48,7 +48,7 @@ sudo apt install -y whiptail iproute2 net-tools procps
 - [Project Presentation](docs/sentinelshield-presentation.pdf)
 
 
-  ## Screenshots
+## Screenshots
 
 ### Main Menu
 ![Main Menu](screenshots/01-main-menu.png)
@@ -56,36 +56,14 @@ sudo apt install -y whiptail iproute2 net-tools procps
 ### Basic Security Scan
 ![Basic Security Scan](screenshots/02-basic-security-scan.png)
 
-### Policy Validation
-![Policy Validation](screenshots/03-policy-validation.png)
-
-### Open Ports Scan
-![Open Ports Scan](screenshots/04-open-ports-scan.png)
-
-### SUID/SGID Scan
-![SUID/SGID Scan](screenshots/05-suid-sgid-scan.png)
-
-### Services Overview
-![Services Overview](screenshots/06-services-overview.png)
-
 ### SSH Hardening
 ![SSH Hardening](screenshots/07-ssh-hardening.png)
 
-### Rollback from Backup
-![Rollback from Backup](screenshots/08-rollback-backup.png)
-
-### Security Report Generated
-![Security Report Generated](screenshots/09-security-report-generated.png)
-
-### CPU Scheduling Algorithms
-![CPU Scheduling Algorithms](screenshots/10-cpu-scheduling-algorithms.png)
-
-### Scheduling Sample Output
-![Scheduling Sample Output](screenshots/11-scheduling-sample-output.png)
+### Security Report
+![Security Report](screenshots/09-security-report-generated.png)
 
 ### CPU Scheduling Demo
 ![CPU Scheduling Demo](screenshots/12-cpu-scheduling-demo.png)
 
-### Backup Created
-![Backup Created](screenshots/13-backup-created.png)
+Additional screenshots are available in the [`screenshots/`](screenshots/) folder.
 
