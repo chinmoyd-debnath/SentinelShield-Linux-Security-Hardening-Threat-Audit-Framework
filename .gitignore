@@ -1,0 +1,10 @@
+sentinel_backup/
+*.log
+*.bak
+*.tmp
+*.swp
+.DS_Store
+.env
+id_rsa
+*.pem
+__pycache__/
