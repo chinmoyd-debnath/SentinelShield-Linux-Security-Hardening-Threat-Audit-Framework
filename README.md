@@ -43,9 +43,7 @@ sudo apt update
 sudo apt install -y whiptail iproute2 net-tools procps
 ```
 
-## Documentation
 
-- [Project Presentation](docs/sentinelshield-presentation.pdf)
 
 
 ## Screenshots
